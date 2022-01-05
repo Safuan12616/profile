@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safuan12616" alt="safuan12616" /></a> </p>
 
-- 🔭 I’m currently learning **Python**
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [safuan12616.github.io](safuan12616.github.io)
